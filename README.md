@@ -1,3 +1,3 @@
 # simple_IDE
-#This program just for chinese.
-#English version will be available later
+#This version is only suitable for china.
+#English version will be available later.
